@@ -1,4 +1,6 @@
-# DropWizard Demo Application
+# DropWizard Demo Application - DEVops toy repo 3
+
+This is the thirs toy repo for a course in Bachelor's degree in which I have experimented the DEVops tools (A.Y 2021/2022)
 
 Welcome to the DropWizard Demo Application !
 
